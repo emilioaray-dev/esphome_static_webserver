@@ -1,4 +1,4 @@
-# esphome_static_webserver
+# esphome_webserver
 Customized CSS AND JS for esphome Web Server. 
 * - Responsive Design,
 * - Center Titles,
